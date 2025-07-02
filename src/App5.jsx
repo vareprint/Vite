@@ -2,7 +2,8 @@ import React from 'react'
 
 function App5() {
   return (
-    <div>App5</div>
+    
+    <h2>Conctace form</h2>
   )
 }
 
